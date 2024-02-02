@@ -13,4 +13,4 @@ Yuxin Sun, vz23211@bristol.ac.uk, pblackcookie
 
 ---
 
-### GAME IDEAS
+# GAME IDEAS
