@@ -62,4 +62,4 @@ Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by 
 
     3.Character movement articulation: including attack, skill, hit and hostile character effects.
 ---
-===
+
