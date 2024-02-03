@@ -45,11 +45,11 @@ A combination of multiple props may have an unexpected effect! (This is definite
 
 Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by attack or skill. Main character has more movement, turning left and right, attacking, jumping (two jumps), skills (maybe?), etc.
 
-![HK00](/pictures/HK00.PNG)
+![HK00](/pictures/HK00.png)
 
-![HK01](/pictures/HK01.PNG)
+![HK01](/pictures/HK01.png)
 
-![HK01](/pictures/HK_effects.PNG)
+![HK_effects](/pictures/HK_effects.png)
 
 ###Challenges:
     
