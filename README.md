@@ -1,7 +1,7 @@
 # group16
 =============================================
 ## members
----------------------------------------------
+
 Lewis Kwok, lewis.kwok.2023@bristol.ac.uk, lewiskyh
 
 Xinyu Wang, qn23459@bristol.ac.uk, whywxy7
@@ -17,8 +17,8 @@ Yuxin Sun, vz23211@bristol.ac.uk, pblackcookie
 # GAME IDEAS
 ============================================
 ## Idea 1
---------------------------------------------
-### The Binding of Isaac: Rebirth
+
+### **The Binding of Isaac: Rebirth**
 
 Classic ruguelike game with lots of random elements, use WASD to move up, down, left, right, and use the arrow keys to fire bullets (tears)!
 
@@ -43,8 +43,8 @@ A combination of multiple props may have an unexpected effect! (This is definite
     3.Combination of multiple props.
 
 ## Idea 2
---------------------------------------------
-### Hollow Knight
+
+### **Hollow Knight**
 
 Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by attack or skill. Main character has more movement, turning left and right, attacking, jumping (two jumps), skills (maybe?), etc.
 
