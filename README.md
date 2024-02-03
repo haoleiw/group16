@@ -15,9 +15,9 @@ Yuxin Sun, vz23211@bristol.ac.uk, pblackcookie
 
 # GAME IDEAS
 
-##Idea 1
+## Idea 1
 
-###The Binding of Isaac: Rebirth
+### The Binding of Isaac: Rebirth
 
 Classic ruguelike game with lots of random elements, use WASD to move up, down, left, right, and use the arrow keys to fire bullets (tears)!
 
@@ -33,7 +33,7 @@ A combination of multiple props may have an unexpected effect! (This is definite
 
 ![isaac03](/pictures/Isaac03.png)
 
-###Challenges:
+### Challenges:
     
     1.Map generation: Need to make sure the map makes sense while random elements are added.
 
@@ -41,9 +41,9 @@ A combination of multiple props may have an unexpected effect! (This is definite
 
     3.Combination of multiple props.
 
-##Idea 2
+## Idea 2
 
-###Hollow Knight
+### Hollow Knight
 
 Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by attack or skill. Main character has more movement, turning left and right, attacking, jumping (two jumps), skills (maybe?), etc.
 
@@ -53,7 +53,7 @@ Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by 
 
 ![HK_effects](/pictures/HK_effects.png)
 
-###Challenges:
+### Challenges:
     
     1.Map design: need to focus on interaction with the protagonist.
 
