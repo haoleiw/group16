@@ -34,6 +34,10 @@ A combination of multiple props may have an unexpected effect! (This is definite
 
 ![isaac03](/pictures/Isaac03.png)
 
+### TWIST：
+
+Some of the new props and resources, and the effects of combining them with other items (might need an update to the underlying logic?).
+
 ### Challenges:
     
     1.Map generation: Need to make sure the map makes sense while random elements are added.
