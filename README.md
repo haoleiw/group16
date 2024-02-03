@@ -16,7 +16,7 @@ Yuxin Sun, vz23211@bristol.ac.uk, pblackcookie
 
 # GAME IDEAS
 
-## Idea 1
+## ***Idea 1***
 
 ### **The Binding of Isaac: Rebirth**
 
@@ -34,7 +34,7 @@ A combination of multiple props may have an unexpected effect! (This is definite
 
 ![isaac03](/pictures/Isaac03.png)
 
-### TWIST：
+### Twist：
 
 Some of the new props and resources, and the effects of combining them with other items (might need an update to the underlying logic?).
 
@@ -46,7 +46,10 @@ Some of the new props and resources, and the effects of combining them with othe
 
     3.Combination of multiple props.
 ----
-## Idea 2
+
+
+
+## ***Idea 2***
 
 ### **Hollow Knight**
 
@@ -57,6 +60,10 @@ Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by 
 ![HK01](/pictures/HK01.png)
 
 ![HK_effects](/pictures/HK_effects.png)
+
+### Twist：
+
+expect brand new skills and boss?
 
 ### Challenges:
     
