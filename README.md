@@ -31,6 +31,8 @@ A combination of multiple props may have an unexpected effect! (This is definite
 
 ![isaac02](/pictures/Isaac02.png)
 
+![isaac03](/pictures/Isaac03.png)
+
 ###Challenges:
     
     1.Map generation: Need to make sure the map makes sense while random elements are added.
