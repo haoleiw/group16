@@ -41,7 +41,7 @@ A combination of multiple props may have an unexpected effect! (This is definite
     2.Enemy behaviour: Ensure the enemy's aggressiveness or behavioural coherence.
 
     3.Combination of multiple props.
-
+----
 ## Idea 2
 
 ### **Hollow Knight**
