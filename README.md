@@ -49,6 +49,8 @@ Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by 
 
 ![HK01](/pictures/HK01.PNG)
 
+![HK01](/pictures/HK_effects.PNG)
+
 ###Challenges:
     
     1.Map design: need to focus on interaction with the protagonist.
