@@ -1,5 +1,5 @@
 # group16
-=============================================
+
 ## members
 
 Lewis Kwok, lewis.kwok.2023@bristol.ac.uk, lewiskyh
@@ -15,7 +15,7 @@ Yuxin Sun, vz23211@bristol.ac.uk, pblackcookie
 -----
 
 # GAME IDEAS
-============================================
+
 ## Idea 1
 
 ### **The Binding of Isaac: Rebirth**
@@ -61,3 +61,5 @@ Horizontal Crossing Game with gravity. Fixed map and enemies, defeat enemies by 
     2.Enemy behaviour: some actions which follow a certain logic.
 
     3.Character movement articulation: including attack, skill, hit and hostile character effects.
+---
+===
